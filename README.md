@@ -54,15 +54,3 @@
  </p>
 </details>
 
-<details>
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-  	   <li><b>OS:</b> Windows / Linux </li>
-	     
-  	   <li><b>Browser: </b> Chrome</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin and Twitter</li>
-	    <br />
-	</ul>
-</details>
