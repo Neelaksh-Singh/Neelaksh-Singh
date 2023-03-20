@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Neelaksh Singh 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Neelaksh Singh.I have a keen interest in Automation, Backend Development and Distributed Systems and love exploring various technology.</h3>
+<h3 align="center">I have a keen interest in Automation, Backend Development and Distributed Systems and love exploring various technology.</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/zhJR6HbK4fthC/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/neelaksh-singh/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Neelaksh-Singh" /></a>
-<a href="https://github.com/Neelaksh-Singh" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Neelaksh-Singh" /></a>
+<a href="https://gracious-kepler-925cd4.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Neelaksh-Singh" /></a>
 <a href="mailto:neelaksh48@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Neelaksh-Singh" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Neelaksh-Singh&label=Visitors&color=0088cc&style=flat-square" alt="Neelaksh-Singh" /> </p>
 
